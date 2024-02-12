@@ -1,4 +1,4 @@
-## Pancreas CT image and volumetric semantic segmentation
+# Pancreas CT image and volumetric semantic segmentation
 
 
 ## Dataset
